@@ -9,9 +9,9 @@
 
 📫 You can send me an email @ abelix897@gmail.com, I will answer it as soon as possible!
 
-Libft - [![apereira's 42 so_long Score](https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2925309)](https://github.com/JaeSeoKim/badge42)
+[![apereira's 42 so_long Score](https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2925309)](https://github.com/JaeSeoKim/badge42)
 
-Get_next_line - <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2876253" alt="apereira's 42 get_next_line Score" /></a>
+ <h1>Get_next_line</h1> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2876253" alt="apereira's 42 get_next_line Score" /></a>
 
 Ft_printf -     <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2892783" alt="apereira's 42 ft_printf Score" /></a>
 
