@@ -9,6 +9,8 @@
 
 📫 You can send me an email @ abelix897@gmail.com, I will answer it as soon as possible!
 
+<H1>Here is a list of the projects I have worked on so far :</H1>
+
  <p1>Libft</p1>  
  
  [![apereira's 42 so_long Score](https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2925309)](https://github.com/JaeSeoKim/badge42)
@@ -30,4 +32,5 @@
    <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2925309" alt="apereira's 42 so_long Score" /></a>
 
 <p6>Push_Swap</p6>
+
    <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2942080" alt="apereira's 42 push_swap Score" /></a>
