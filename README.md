@@ -13,12 +13,20 @@
 
  [![apereira's 42 so_long Score](https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2925309)](https://github.com/JaeSeoKim/badge42)
 
- <h4>Get_next_line</h4> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2876253" alt="apereira's 42 get_next_line Score" /></a>
+ <h4>Get_next_line</h4> 
+ 
+ <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2876253" alt="apereira's 42 get_next_line Score" /></a>
 
+ <h4>Get_next_line</h4>
+ 
 Ft_printf -     <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2892783" alt="apereira's 42 ft_printf Score" /></a>
 
+ <h4>Get_next_line</h4>
+ 
 Born2beroot -   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2906140" alt="apereira's 42 Born2beroot Score" /></a>
 
+ <h4>Get_next_line</h4>
+ 
 So_long -       <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2925309" alt="apereira's 42 so_long Score" /></a>
 
-Push_Swap -     <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2942080" alt="apereira's 42 push_swap Score" /></a>
+ <h3>Push_Swap</h3> -     <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2942080" alt="apereira's 42 push_swap Score" /></a>
