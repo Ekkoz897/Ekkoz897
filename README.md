@@ -33,6 +33,6 @@
  
    <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2925309" alt="apereira's 42 so_long Score" /></a>
 
-<p6>Push_Swap</p6>
+<p6>Push_Swap</p6> 
 
    <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2942080" alt="apereira's 42 push_swap Score" /></a>
