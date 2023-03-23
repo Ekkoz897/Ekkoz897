@@ -12,7 +12,7 @@
 
 <H1>Here is a list of the projects I have worked on so far :</H1>
 
- <p1>Libft</p1>  [![apereira's 42 so_long Score](https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2925309)](https://github.com/JaeSeoKim/badge42)  <p2>Get_next_line</p2>  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2876253" alt="apereira's 42 get_next_line Score" /></a>
+ <p1>Libft</p1>       [![apereira's 42 so_long Score](https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2925309)](https://github.com/JaeSeoKim/badge42)  <p2>Get_next_line</p2>  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2876253" alt="apereira's 42 get_next_line Score" /></a>
  
  <p3>Ft_printf</p3>  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2892783" alt="apereira's 42 ft_printf Score" /></a> <p4>Born2beroot</p4> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2906140" alt="apereira's 42 Born2beroot Score" /></a>
 
