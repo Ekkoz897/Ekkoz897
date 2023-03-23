@@ -41,4 +41,8 @@
     <strong>Pipex</strong>
     <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/3014428" alt="apereira's 42 pipex Score" /></a>
   </li>
+  <li>
+    <strong>Minishell</strong>
+    <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/3038103" alt="apereira's 42 minishell Score" /></a>
+  </li>
 </ol>
