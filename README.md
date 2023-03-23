@@ -14,9 +14,7 @@
 
  <p1>Libft</p1>  
  
- [![apereira's 42 so_long Score](https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2925309)](https://github.com/JaeSeoKim/badge42)
-
-<p2>Get_next_line</p2> 
+ [![apereira's 42 so_long Score](https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2925309)](https://github.com/JaeSeoKim/badge42) <p2>Get_next_line</p2> 
  
    <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2876253" alt="apereira's 42 get_next_line Score" /></a>
  
@@ -35,3 +33,7 @@
 <p6>Push_Swap</p6>
 
    <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/2942080" alt="apereira's 42 push_swap Score" /></a>
+
+<p7>Pipex</p7>
+
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/project/3014428" alt="apereira's 42 pipex Score" /></a>
