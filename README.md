@@ -1,4 +1,4 @@
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/stats?cursusId=21&coalitionId=289" alt="apereira's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle3a0k9v00060gl3p2p3vgmx/stats?cursusId=21&coalitionId=110" alt="apereira's 42 stats" /></a>
 
 <p0>Hi there 👋 ;
 
