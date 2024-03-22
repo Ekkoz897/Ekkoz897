@@ -1,6 +1,6 @@
 <p0>Hi there 👋 ;
 
-🧠 I’m currently learning C at the 42 school in Lisbon, Portugal.
+🧠 I’m currently a student at the 42 school in Lisbon, Portugal.
 
 👀 I'm interested in AI (still haven't coded anything in that regard), blockchain, and cyber security.
 
